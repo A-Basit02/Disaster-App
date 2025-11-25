@@ -199,10 +199,6 @@ Disaster Management/
 3. Make sure backend is running before starting frontend
 4. Check console logs for error messages
 
-## 📄 License
 
-ISC License
 
----
 
-**Happy Coding! 🚀**
